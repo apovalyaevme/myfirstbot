@@ -1,0 +1,22 @@
+{
+  "name": "mybots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "add": "^2.0.6",
+    "node-static": "^0.7.10",
+    "node-telegram-bot-api": "^0.30.0",
+    "or": "^0.2.0",
+    "yarn": "^1.9.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines":{
+	"node": "8.11.4"
+  },
+  "author": "",
+  "license": "ISC"
+}
